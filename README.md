@@ -11,6 +11,7 @@
   ![HTML](https://img.shields.io/badge/Html-05122A?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/Css-05122A?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=White)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=White)
   ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=White)
    
   - &nbsp;
@@ -19,7 +20,6 @@
   
   - &nbsp;
   ![FIGMA](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
   ## My Stats
 <p>
@@ -28,5 +28,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicenttcarvalho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=vicenttcarvalho&color=blue&style=flat)
