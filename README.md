@@ -20,6 +20,7 @@
   
   - &nbsp;
   ![FIGMA](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
   ## My Stats
 <p>
