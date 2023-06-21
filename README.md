@@ -12,7 +12,6 @@
   ![CSS](https://img.shields.io/badge/Css-05122A?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=White)
   ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=White)
-  ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=White)
    
   - &nbsp;
   ![GIT](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white)
