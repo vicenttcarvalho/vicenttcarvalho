@@ -28,3 +28,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicenttcarvalho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<div>
+    <a target='_blank' href="https://www.instagram.com/vicenttcarvalho/">
+        <img src="https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/vicente-carvalho-b08435221/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
