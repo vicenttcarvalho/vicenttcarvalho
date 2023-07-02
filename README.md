@@ -35,7 +35,7 @@
     <a target='_blank' href="https://www.linkedin.com/in/vicente-carvalho-b08435221/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-     <a href="https://vicenttcarvalho.github.io/devlinks/" target="_blank">
+     <a target="_blank" href="https://vicenttcarvalho.github.io/devlinks/">
       <img src="https://img.shields.io/badge/-website-%5B?style=for-the-badge&logo=opel&logoColor=white" target="_blank">
     </a>
 </div>
