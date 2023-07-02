@@ -1,9 +1,9 @@
-<img src="https://github.com/vicenttcarvalho/assets/blob/main/logo-oficial2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Science">
+<img src="https://github.com/vicenttcarvalho/assets/blob/main/logo-oficial2.png" min-width="400px" max-width="400px" width="150px" align="right" alt="Computer Science">
 
 ## 👋 Olá!
 
 <p align="left"> 
-  Sou o Vicente Carvalho, estudante de Ciência da Computação, Front-End e UX/UI Design, focado na Programação Web.
+  Sou o Vicente Carvalho, estudante de Ciência da Computação, Front-End e UX/UI Design focado na Programação Web.
 </p>
 
   ## Tech Stack
