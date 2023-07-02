@@ -1,4 +1,4 @@
-<img src="https://github.com/vicenttcarvalho/assets/blob/main/front-end-code2.0.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Science">
+<img src="https://github.com/vicenttcarvalho/assets/blob/main/logo-oficial.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Science">
 
 ## 👋 Olá!
 
