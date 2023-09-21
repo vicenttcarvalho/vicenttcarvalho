@@ -1,9 +1,9 @@
 <img src="https://github.com/vicenttcarvalho/vicenttcarvalho/assets/67881988/8c2eb653-06b7-4235-9e92-031666567deb" min-width="400px" max-width="400px" width="150px" align="right" alt="Vicente Dev logo">
 
-## 👋 Olá!
+## 👋 Hi!
 
 <p align="left"> 
-  Sou o Vicente, estudante de Ciência da Computação, Front-End e UX/UI Design focado na Programação Web.
+  I'm Vicente, a Computer Science, Front-End and UX/UI Design student focused on Web Programming.
 </p>
 
   ## Tech Stack
@@ -18,7 +18,7 @@
   ![REACT](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white)
   
   - &nbsp;
-  ![FIGMA](https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white)
+  ![UX/UI_Design](https://img.shields.io/badge/UX/UI_Design-05122A?style=for-the-badge&logo=UX/UX__Design&logoColor=white)
   
   ## My Stats
 <p>
