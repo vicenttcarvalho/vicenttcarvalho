@@ -3,13 +3,14 @@
 ## 👋 Hi!
 
 <p align="left"> 
-  I'm Vicente, a Computer Science student.
+  I'm Vicente, a Computer Science, Back-End Java student focused on Web Programming.
 </p>
 
   ## Tech Stack
   - &nbsp;
   ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=White)
+  ![SQL](https://img.shields.io/badge/SQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white)
   ![HTML](https://img.shields.io/badge/Html-05122A?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/Css-05122A?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=White)
