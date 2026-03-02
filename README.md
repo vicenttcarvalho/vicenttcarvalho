@@ -3,7 +3,7 @@
 ## 👋 Hi!
 
 <p align="left"> 
-  I'm Vicente, a Computer Science, Back-end Java, Front-end student focused on Web Programming.
+ I'm Vicente, a Computer Scientist, Back-end Java, Front-end focused on Web Programming.
 </p>
 
   ## Tech Stack
